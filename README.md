@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Justin Hadinata and currently a student in one of the best university in Indonesia,
+
+I have a great interest in learning about data analytics, full-stack development, and cybersecurity.
+
+- 🌱 I’m currently learning data analytics.
+- ⚡ Fun fact: I love to watch thai movies and food is the best way to know me more.
 
 <!--
 **justinhadinata/justinhadinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
